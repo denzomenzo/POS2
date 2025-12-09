@@ -1,5 +1,5 @@
 {
-  "name": "demly-pos",
+  "name": "demly-pos-salon",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -36,4 +36,5 @@
     "typescript": "^5"
   }
 }
+
 
